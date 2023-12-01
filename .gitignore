@@ -35,3 +35,4 @@ tests/local_scratch.py
 tests/mnist_data
 data/*
 **/.coverage*
+
